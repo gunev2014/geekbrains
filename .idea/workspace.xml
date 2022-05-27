@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5ecdc-ccc6-4000-83bb-4a0bf88a88d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekbrains.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkApp2.java" afterDir="false" />
+    <list default="true" id="33d5ecdc-ccc6-4000-83bb-4a0bf88a88d7" name="Changes" comment="dz1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ1/HomeWorkApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkApp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ2/HomeWorkApp2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +38,31 @@
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="HomeWorkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorkApp" />
+  <component name="RunManager" selected="Application.HomeWorkApp2">
+    <configuration name="DZ1.HomeWorkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ1.HomeWorkApp" />
       <module name="geekbrains" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ2.HomeWorkApp2" />
+      <module name="geekbrains" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeWorkApp" />
+        <item itemvalue="Application.HomeWorkApp2" />
+        <item itemvalue="Application.DZ1.HomeWorkApp" />
       </list>
     </recent_temporary>
   </component>
@@ -67,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653394302280</updated>
     </task>
+    <task id="LOCAL-00001" summary="dz1">
+      <created>1653399932444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653399932444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +95,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dz1" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
