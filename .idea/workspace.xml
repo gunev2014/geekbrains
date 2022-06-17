@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5ecdc-ccc6-4000-83bb-4a0bf88a88d7" name="Changes" comment="dz2">
-      <change afterPath="$PROJECT_DIR$/src/DZ3/HomeWorkApp3.java" afterDir="false" />
+    <list default="true" id="33d5ecdc-ccc6-4000-83bb-4a0bf88a88d7" name="Changes" comment="dz3">
+      <change afterPath="$PROJECT_DIR$/src/DZ4/HomeWorkApp4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DZ5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DZ5/HomeWorkApp5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeWorkApp3">
+  <component name="RunManager" selected="Application.HomeWorkApp5">
     <configuration name="DZ1.HomeWorkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DZ1.HomeWorkApp" />
       <module name="geekbrains" />
@@ -71,8 +73,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeWorkApp4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ4.HomeWorkApp4" />
+      <module name="geekbrains" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkApp5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ5.HomeWorkApp5" />
+      <module name="geekbrains" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWorkApp5" />
+        <item itemvalue="Application.HomeWorkApp4" />
         <item itemvalue="Application.HomeWorkApp3" />
         <item itemvalue="Application.HomeWorkApp2" />
         <item itemvalue="Application.DZ1.HomeWorkApp" />
@@ -109,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653658567744</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dz3">
+      <created>1654265468410</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654265468410</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +163,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dz1" />
     <MESSAGE value="dz2" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz2" />
+    <MESSAGE value="dz3" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
