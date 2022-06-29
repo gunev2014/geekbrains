@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5ecdc-ccc6-4000-83bb-4a0bf88a88d7" name="Changes" comment="dz4">
-      <change afterPath="$PROJECT_DIR$/src/DZ6/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DZ6/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DZ6/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="33d5ecdc-ccc6-4000-83bb-4a0bf88a88d7" name="Changes" comment="dz6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655483626409</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dz6">
+      <created>1656073798703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656073798703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +174,8 @@
     <MESSAGE value="dz2" />
     <MESSAGE value="dz3" />
     <MESSAGE value="dz4" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz4" />
+    <MESSAGE value="dz6" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
